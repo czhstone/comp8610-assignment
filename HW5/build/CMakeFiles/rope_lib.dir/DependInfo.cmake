@@ -1,0 +1,26 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  )
+
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/Users/ernest/Desktop/comp8610/HW5/code_framework/src/cloth.cpp" "CMakeFiles/rope_lib.dir/src/cloth.cpp.o" "gcc" "CMakeFiles/rope_lib.dir/src/cloth.cpp.o.d"
+  "/Users/ernest/Desktop/comp8610/HW5/code_framework/src/rasterizer.cpp" "CMakeFiles/rope_lib.dir/src/rasterizer.cpp.o" "gcc" "CMakeFiles/rope_lib.dir/src/rasterizer.cpp.o.d"
+  "/Users/ernest/Desktop/comp8610/HW5/code_framework/src/rope.cpp" "CMakeFiles/rope_lib.dir/src/rope.cpp.o" "gcc" "CMakeFiles/rope_lib.dir/src/rope.cpp.o.d"
+  "/Users/ernest/Desktop/comp8610/HW5/code_framework/src/transforms.cpp" "CMakeFiles/rope_lib.dir/src/transforms.cpp.o" "gcc" "CMakeFiles/rope_lib.dir/src/transforms.cpp.o.d"
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_FORWARD_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

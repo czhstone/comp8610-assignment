@@ -1,0 +1,10 @@
+/Users/ernest/Desktop/comp8610/HW5/code_framework/build/CMakeFiles/rope_lib.dir
+/Users/ernest/Desktop/comp8610/HW5/code_framework/build/CMakeFiles/task1.dir
+/Users/ernest/Desktop/comp8610/HW5/code_framework/build/CMakeFiles/task2_1.dir
+/Users/ernest/Desktop/comp8610/HW5/code_framework/build/CMakeFiles/task2_2.dir
+/Users/ernest/Desktop/comp8610/HW5/code_framework/build/CMakeFiles/task3.dir
+/Users/ernest/Desktop/comp8610/HW5/code_framework/build/CMakeFiles/task4.dir
+/Users/ernest/Desktop/comp8610/HW5/code_framework/build/CMakeFiles/task5_1.dir
+/Users/ernest/Desktop/comp8610/HW5/code_framework/build/CMakeFiles/task5_2.dir
+/Users/ernest/Desktop/comp8610/HW5/code_framework/build/CMakeFiles/edit_cache.dir
+/Users/ernest/Desktop/comp8610/HW5/code_framework/build/CMakeFiles/rebuild_cache.dir

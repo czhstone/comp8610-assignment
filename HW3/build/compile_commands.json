@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/Users/ernest/Desktop/comp8610/HW3/code/build",
+  "command": "/usr/bin/clang++ -Dmesh_EXPORTS -I/usr/local/Cellar/opencv/4.9.0_4/include/opencv4 -I/usr/local/include/eigen3 -I/Users/ernest/Desktop/comp8610/HW3/code -I/Users/ernest/Desktop/comp8610/HW3/code/include -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fPIC -o CMakeFiles/mesh.dir/src/mesh.cpp.o -c /Users/ernest/Desktop/comp8610/HW3/code/src/mesh.cpp",
+  "file": "/Users/ernest/Desktop/comp8610/HW3/code/src/mesh.cpp",
+  "output": "CMakeFiles/mesh.dir/src/mesh.cpp.o"
+},
+{
+  "directory": "/Users/ernest/Desktop/comp8610/HW3/code/build",
+  "command": "/usr/bin/clang++ -Dmesh_EXPORTS -I/usr/local/Cellar/opencv/4.9.0_4/include/opencv4 -I/usr/local/include/eigen3 -I/Users/ernest/Desktop/comp8610/HW3/code -I/Users/ernest/Desktop/comp8610/HW3/code/include -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fPIC -o CMakeFiles/mesh.dir/src/half_edge.cpp.o -c /Users/ernest/Desktop/comp8610/HW3/code/src/half_edge.cpp",
+  "file": "/Users/ernest/Desktop/comp8610/HW3/code/src/half_edge.cpp",
+  "output": "CMakeFiles/mesh.dir/src/half_edge.cpp.o"
+},
+{
+  "directory": "/Users/ernest/Desktop/comp8610/HW3/code/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include/eigen3 -I/Users/ernest/Desktop/comp8610/HW3/code -I/Users/ernest/Desktop/comp8610/HW3/code/include -isystem /usr/local/Cellar/opencv/4.9.0_4/include/opencv4 -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -o CMakeFiles/task1.dir/task1.cpp.o -c /Users/ernest/Desktop/comp8610/HW3/code/task1.cpp",
+  "file": "/Users/ernest/Desktop/comp8610/HW3/code/task1.cpp",
+  "output": "CMakeFiles/task1.dir/task1.cpp.o"
+},
+{
+  "directory": "/Users/ernest/Desktop/comp8610/HW3/code/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include/eigen3 -I/Users/ernest/Desktop/comp8610/HW3/code -I/Users/ernest/Desktop/comp8610/HW3/code/include -isystem /usr/local/Cellar/opencv/4.9.0_4/include/opencv4 -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -o CMakeFiles/task2.dir/task2.cpp.o -c /Users/ernest/Desktop/comp8610/HW3/code/task2.cpp",
+  "file": "/Users/ernest/Desktop/comp8610/HW3/code/task2.cpp",
+  "output": "CMakeFiles/task2.dir/task2.cpp.o"
+}
+]

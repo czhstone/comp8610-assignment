@@ -1,0 +1,3 @@
+/Users/ernest/Desktop/comp8610/HW4/code_v3/build/CMakeFiles/RayTracing.dir
+/Users/ernest/Desktop/comp8610/HW4/code_v3/build/CMakeFiles/edit_cache.dir
+/Users/ernest/Desktop/comp8610/HW4/code_v3/build/CMakeFiles/rebuild_cache.dir

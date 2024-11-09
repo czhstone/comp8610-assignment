@@ -1,0 +1,68 @@
+[
+{
+  "directory": "/Users/ernest/Desktop/comp8610/HW5/code_framework/build",
+  "command": "/usr/bin/clang++ -Drope_lib_EXPORTS -I/usr/local/include/eigen3 -I/Users/ernest/Desktop/comp8610/HW5/code_framework -I/Users/ernest/Desktop/comp8610/HW5/code_framework/include -isystem /usr/local/Cellar/opencv/4.9.0_8/include/opencv4 -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fPIC -o CMakeFiles/rope_lib.dir/src/transforms.cpp.o -c /Users/ernest/Desktop/comp8610/HW5/code_framework/src/transforms.cpp",
+  "file": "/Users/ernest/Desktop/comp8610/HW5/code_framework/src/transforms.cpp",
+  "output": "CMakeFiles/rope_lib.dir/src/transforms.cpp.o"
+},
+{
+  "directory": "/Users/ernest/Desktop/comp8610/HW5/code_framework/build",
+  "command": "/usr/bin/clang++ -Drope_lib_EXPORTS -I/usr/local/include/eigen3 -I/Users/ernest/Desktop/comp8610/HW5/code_framework -I/Users/ernest/Desktop/comp8610/HW5/code_framework/include -isystem /usr/local/Cellar/opencv/4.9.0_8/include/opencv4 -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fPIC -o CMakeFiles/rope_lib.dir/src/rasterizer.cpp.o -c /Users/ernest/Desktop/comp8610/HW5/code_framework/src/rasterizer.cpp",
+  "file": "/Users/ernest/Desktop/comp8610/HW5/code_framework/src/rasterizer.cpp",
+  "output": "CMakeFiles/rope_lib.dir/src/rasterizer.cpp.o"
+},
+{
+  "directory": "/Users/ernest/Desktop/comp8610/HW5/code_framework/build",
+  "command": "/usr/bin/clang++ -Drope_lib_EXPORTS -I/usr/local/include/eigen3 -I/Users/ernest/Desktop/comp8610/HW5/code_framework -I/Users/ernest/Desktop/comp8610/HW5/code_framework/include -isystem /usr/local/Cellar/opencv/4.9.0_8/include/opencv4 -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fPIC -o CMakeFiles/rope_lib.dir/src/rope.cpp.o -c /Users/ernest/Desktop/comp8610/HW5/code_framework/src/rope.cpp",
+  "file": "/Users/ernest/Desktop/comp8610/HW5/code_framework/src/rope.cpp",
+  "output": "CMakeFiles/rope_lib.dir/src/rope.cpp.o"
+},
+{
+  "directory": "/Users/ernest/Desktop/comp8610/HW5/code_framework/build",
+  "command": "/usr/bin/clang++ -Drope_lib_EXPORTS -I/usr/local/include/eigen3 -I/Users/ernest/Desktop/comp8610/HW5/code_framework -I/Users/ernest/Desktop/comp8610/HW5/code_framework/include -isystem /usr/local/Cellar/opencv/4.9.0_8/include/opencv4 -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fPIC -o CMakeFiles/rope_lib.dir/src/cloth.cpp.o -c /Users/ernest/Desktop/comp8610/HW5/code_framework/src/cloth.cpp",
+  "file": "/Users/ernest/Desktop/comp8610/HW5/code_framework/src/cloth.cpp",
+  "output": "CMakeFiles/rope_lib.dir/src/cloth.cpp.o"
+},
+{
+  "directory": "/Users/ernest/Desktop/comp8610/HW5/code_framework/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include/eigen3 -I/Users/ernest/Desktop/comp8610/HW5/code_framework -I/Users/ernest/Desktop/comp8610/HW5/code_framework/include -isystem /usr/local/Cellar/opencv/4.9.0_8/include/opencv4 -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -o CMakeFiles/task1.dir/task1.cpp.o -c /Users/ernest/Desktop/comp8610/HW5/code_framework/task1.cpp",
+  "file": "/Users/ernest/Desktop/comp8610/HW5/code_framework/task1.cpp",
+  "output": "CMakeFiles/task1.dir/task1.cpp.o"
+},
+{
+  "directory": "/Users/ernest/Desktop/comp8610/HW5/code_framework/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include/eigen3 -I/Users/ernest/Desktop/comp8610/HW5/code_framework -I/Users/ernest/Desktop/comp8610/HW5/code_framework/include -isystem /usr/local/Cellar/opencv/4.9.0_8/include/opencv4 -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -o CMakeFiles/task2_1.dir/task2_1.cpp.o -c /Users/ernest/Desktop/comp8610/HW5/code_framework/task2_1.cpp",
+  "file": "/Users/ernest/Desktop/comp8610/HW5/code_framework/task2_1.cpp",
+  "output": "CMakeFiles/task2_1.dir/task2_1.cpp.o"
+},
+{
+  "directory": "/Users/ernest/Desktop/comp8610/HW5/code_framework/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include/eigen3 -I/Users/ernest/Desktop/comp8610/HW5/code_framework -I/Users/ernest/Desktop/comp8610/HW5/code_framework/include -isystem /usr/local/Cellar/opencv/4.9.0_8/include/opencv4 -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -o CMakeFiles/task2_2.dir/task2_2.cpp.o -c /Users/ernest/Desktop/comp8610/HW5/code_framework/task2_2.cpp",
+  "file": "/Users/ernest/Desktop/comp8610/HW5/code_framework/task2_2.cpp",
+  "output": "CMakeFiles/task2_2.dir/task2_2.cpp.o"
+},
+{
+  "directory": "/Users/ernest/Desktop/comp8610/HW5/code_framework/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include/eigen3 -I/Users/ernest/Desktop/comp8610/HW5/code_framework -I/Users/ernest/Desktop/comp8610/HW5/code_framework/include -isystem /usr/local/Cellar/opencv/4.9.0_8/include/opencv4 -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -o CMakeFiles/task3.dir/task3.cpp.o -c /Users/ernest/Desktop/comp8610/HW5/code_framework/task3.cpp",
+  "file": "/Users/ernest/Desktop/comp8610/HW5/code_framework/task3.cpp",
+  "output": "CMakeFiles/task3.dir/task3.cpp.o"
+},
+{
+  "directory": "/Users/ernest/Desktop/comp8610/HW5/code_framework/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include/eigen3 -I/Users/ernest/Desktop/comp8610/HW5/code_framework -I/Users/ernest/Desktop/comp8610/HW5/code_framework/include -isystem /usr/local/Cellar/opencv/4.9.0_8/include/opencv4 -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -o CMakeFiles/task4.dir/task4.cpp.o -c /Users/ernest/Desktop/comp8610/HW5/code_framework/task4.cpp",
+  "file": "/Users/ernest/Desktop/comp8610/HW5/code_framework/task4.cpp",
+  "output": "CMakeFiles/task4.dir/task4.cpp.o"
+},
+{
+  "directory": "/Users/ernest/Desktop/comp8610/HW5/code_framework/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include/eigen3 -I/Users/ernest/Desktop/comp8610/HW5/code_framework -I/Users/ernest/Desktop/comp8610/HW5/code_framework/include -isystem /usr/local/Cellar/opencv/4.9.0_8/include/opencv4 -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -o CMakeFiles/task5_1.dir/task5_1.cpp.o -c /Users/ernest/Desktop/comp8610/HW5/code_framework/task5_1.cpp",
+  "file": "/Users/ernest/Desktop/comp8610/HW5/code_framework/task5_1.cpp",
+  "output": "CMakeFiles/task5_1.dir/task5_1.cpp.o"
+},
+{
+  "directory": "/Users/ernest/Desktop/comp8610/HW5/code_framework/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include/eigen3 -I/Users/ernest/Desktop/comp8610/HW5/code_framework -I/Users/ernest/Desktop/comp8610/HW5/code_framework/include -isystem /usr/local/Cellar/opencv/4.9.0_8/include/opencv4 -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -o CMakeFiles/task5_2.dir/task5_2.cpp.o -c /Users/ernest/Desktop/comp8610/HW5/code_framework/task5_2.cpp",
+  "file": "/Users/ernest/Desktop/comp8610/HW5/code_framework/task5_2.cpp",
+  "output": "CMakeFiles/task5_2.dir/task5_2.cpp.o"
+}
+]

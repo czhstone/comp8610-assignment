@@ -1,0 +1,5 @@
+/Users/ernest/Desktop/comp8610/HW2_new/Code/build/CMakeFiles/task1.dir
+/Users/ernest/Desktop/comp8610/HW2_new/Code/build/CMakeFiles/task2.dir
+/Users/ernest/Desktop/comp8610/HW2_new/Code/build/CMakeFiles/task3.dir
+/Users/ernest/Desktop/comp8610/HW2_new/Code/build/CMakeFiles/edit_cache.dir
+/Users/ernest/Desktop/comp8610/HW2_new/Code/build/CMakeFiles/rebuild_cache.dir

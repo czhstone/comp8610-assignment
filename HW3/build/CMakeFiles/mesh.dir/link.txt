@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -dynamiclib -Wl,-headerpad_max_install_names -o libmesh.dylib -install_name @rpath/libmesh.dylib CMakeFiles/mesh.dir/src/mesh.cpp.o CMakeFiles/mesh.dir/src/half_edge.cpp.o 

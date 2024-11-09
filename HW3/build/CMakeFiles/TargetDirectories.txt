@@ -1,0 +1,5 @@
+/Users/ernest/Desktop/comp8610/HW3/code/build/CMakeFiles/mesh.dir
+/Users/ernest/Desktop/comp8610/HW3/code/build/CMakeFiles/task1.dir
+/Users/ernest/Desktop/comp8610/HW3/code/build/CMakeFiles/task2.dir
+/Users/ernest/Desktop/comp8610/HW3/code/build/CMakeFiles/edit_cache.dir
+/Users/ernest/Desktop/comp8610/HW3/code/build/CMakeFiles/rebuild_cache.dir

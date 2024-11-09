@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/Users/ernest/Desktop/comp8610/HW4/code_v3/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -o CMakeFiles/RayTracing.dir/main.cpp.o -c /Users/ernest/Desktop/comp8610/HW4/code_v3/main.cpp",
+  "file": "/Users/ernest/Desktop/comp8610/HW4/code_v3/main.cpp",
+  "output": "CMakeFiles/RayTracing.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/ernest/Desktop/comp8610/HW4/code_v3/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -o CMakeFiles/RayTracing.dir/Vector.cpp.o -c /Users/ernest/Desktop/comp8610/HW4/code_v3/Vector.cpp",
+  "file": "/Users/ernest/Desktop/comp8610/HW4/code_v3/Vector.cpp",
+  "output": "CMakeFiles/RayTracing.dir/Vector.cpp.o"
+},
+{
+  "directory": "/Users/ernest/Desktop/comp8610/HW4/code_v3/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -o CMakeFiles/RayTracing.dir/Scene.cpp.o -c /Users/ernest/Desktop/comp8610/HW4/code_v3/Scene.cpp",
+  "file": "/Users/ernest/Desktop/comp8610/HW4/code_v3/Scene.cpp",
+  "output": "CMakeFiles/RayTracing.dir/Scene.cpp.o"
+},
+{
+  "directory": "/Users/ernest/Desktop/comp8610/HW4/code_v3/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -o CMakeFiles/RayTracing.dir/BVH.cpp.o -c /Users/ernest/Desktop/comp8610/HW4/code_v3/BVH.cpp",
+  "file": "/Users/ernest/Desktop/comp8610/HW4/code_v3/BVH.cpp",
+  "output": "CMakeFiles/RayTracing.dir/BVH.cpp.o"
+},
+{
+  "directory": "/Users/ernest/Desktop/comp8610/HW4/code_v3/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -o CMakeFiles/RayTracing.dir/Renderer.cpp.o -c /Users/ernest/Desktop/comp8610/HW4/code_v3/Renderer.cpp",
+  "file": "/Users/ernest/Desktop/comp8610/HW4/code_v3/Renderer.cpp",
+  "output": "CMakeFiles/RayTracing.dir/Renderer.cpp.o"
+}
+]

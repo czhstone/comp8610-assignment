@@ -1,0 +1,74 @@
+[
+{
+  "directory": "/Users/ernest/Desktop/comp8610/HW2_new/Code/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include/eigen3 -isystem /usr/local/Cellar/opencv/4.9.0_4/include/opencv4 -O3 -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -o CMakeFiles/task1.dir/task1.cpp.o -c /Users/ernest/Desktop/comp8610/HW2_new/Code/task1.cpp",
+  "file": "/Users/ernest/Desktop/comp8610/HW2_new/Code/task1.cpp",
+  "output": "CMakeFiles/task1.dir/task1.cpp.o"
+},
+{
+  "directory": "/Users/ernest/Desktop/comp8610/HW2_new/Code/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include/eigen3 -isystem /usr/local/Cellar/opencv/4.9.0_4/include/opencv4 -O3 -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -o CMakeFiles/task1.dir/rasterizer.cpp.o -c /Users/ernest/Desktop/comp8610/HW2_new/Code/rasterizer.cpp",
+  "file": "/Users/ernest/Desktop/comp8610/HW2_new/Code/rasterizer.cpp",
+  "output": "CMakeFiles/task1.dir/rasterizer.cpp.o"
+},
+{
+  "directory": "/Users/ernest/Desktop/comp8610/HW2_new/Code/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include/eigen3 -isystem /usr/local/Cellar/opencv/4.9.0_4/include/opencv4 -O3 -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -o CMakeFiles/task1.dir/mesh.cpp.o -c /Users/ernest/Desktop/comp8610/HW2_new/Code/mesh.cpp",
+  "file": "/Users/ernest/Desktop/comp8610/HW2_new/Code/mesh.cpp",
+  "output": "CMakeFiles/task1.dir/mesh.cpp.o"
+},
+{
+  "directory": "/Users/ernest/Desktop/comp8610/HW2_new/Code/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include/eigen3 -isystem /usr/local/Cellar/opencv/4.9.0_4/include/opencv4 -O3 -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -o CMakeFiles/task1.dir/Triangle.cpp.o -c /Users/ernest/Desktop/comp8610/HW2_new/Code/Triangle.cpp",
+  "file": "/Users/ernest/Desktop/comp8610/HW2_new/Code/Triangle.cpp",
+  "output": "CMakeFiles/task1.dir/Triangle.cpp.o"
+},
+{
+  "directory": "/Users/ernest/Desktop/comp8610/HW2_new/Code/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include/eigen3 -isystem /usr/local/Cellar/opencv/4.9.0_4/include/opencv4 -O3 -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -o CMakeFiles/task2.dir/task2.cpp.o -c /Users/ernest/Desktop/comp8610/HW2_new/Code/task2.cpp",
+  "file": "/Users/ernest/Desktop/comp8610/HW2_new/Code/task2.cpp",
+  "output": "CMakeFiles/task2.dir/task2.cpp.o"
+},
+{
+  "directory": "/Users/ernest/Desktop/comp8610/HW2_new/Code/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include/eigen3 -isystem /usr/local/Cellar/opencv/4.9.0_4/include/opencv4 -O3 -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -o CMakeFiles/task2.dir/rasterizer.cpp.o -c /Users/ernest/Desktop/comp8610/HW2_new/Code/rasterizer.cpp",
+  "file": "/Users/ernest/Desktop/comp8610/HW2_new/Code/rasterizer.cpp",
+  "output": "CMakeFiles/task2.dir/rasterizer.cpp.o"
+},
+{
+  "directory": "/Users/ernest/Desktop/comp8610/HW2_new/Code/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include/eigen3 -isystem /usr/local/Cellar/opencv/4.9.0_4/include/opencv4 -O3 -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -o CMakeFiles/task2.dir/Triangle.cpp.o -c /Users/ernest/Desktop/comp8610/HW2_new/Code/Triangle.cpp",
+  "file": "/Users/ernest/Desktop/comp8610/HW2_new/Code/Triangle.cpp",
+  "output": "CMakeFiles/task2.dir/Triangle.cpp.o"
+},
+{
+  "directory": "/Users/ernest/Desktop/comp8610/HW2_new/Code/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include/eigen3 -isystem /usr/local/Cellar/opencv/4.9.0_4/include/opencv4 -O3 -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -o CMakeFiles/task2.dir/Texture.cpp.o -c /Users/ernest/Desktop/comp8610/HW2_new/Code/Texture.cpp",
+  "file": "/Users/ernest/Desktop/comp8610/HW2_new/Code/Texture.cpp",
+  "output": "CMakeFiles/task2.dir/Texture.cpp.o"
+},
+{
+  "directory": "/Users/ernest/Desktop/comp8610/HW2_new/Code/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include/eigen3 -isystem /usr/local/Cellar/opencv/4.9.0_4/include/opencv4 -O3 -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -o CMakeFiles/task3.dir/task3.cpp.o -c /Users/ernest/Desktop/comp8610/HW2_new/Code/task3.cpp",
+  "file": "/Users/ernest/Desktop/comp8610/HW2_new/Code/task3.cpp",
+  "output": "CMakeFiles/task3.dir/task3.cpp.o"
+},
+{
+  "directory": "/Users/ernest/Desktop/comp8610/HW2_new/Code/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include/eigen3 -isystem /usr/local/Cellar/opencv/4.9.0_4/include/opencv4 -O3 -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -o CMakeFiles/task3.dir/rasterizer.cpp.o -c /Users/ernest/Desktop/comp8610/HW2_new/Code/rasterizer.cpp",
+  "file": "/Users/ernest/Desktop/comp8610/HW2_new/Code/rasterizer.cpp",
+  "output": "CMakeFiles/task3.dir/rasterizer.cpp.o"
+},
+{
+  "directory": "/Users/ernest/Desktop/comp8610/HW2_new/Code/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include/eigen3 -isystem /usr/local/Cellar/opencv/4.9.0_4/include/opencv4 -O3 -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -o CMakeFiles/task3.dir/Triangle.cpp.o -c /Users/ernest/Desktop/comp8610/HW2_new/Code/Triangle.cpp",
+  "file": "/Users/ernest/Desktop/comp8610/HW2_new/Code/Triangle.cpp",
+  "output": "CMakeFiles/task3.dir/Triangle.cpp.o"
+},
+{
+  "directory": "/Users/ernest/Desktop/comp8610/HW2_new/Code/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include/eigen3 -isystem /usr/local/Cellar/opencv/4.9.0_4/include/opencv4 -O3 -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -o CMakeFiles/task3.dir/Texture.cpp.o -c /Users/ernest/Desktop/comp8610/HW2_new/Code/Texture.cpp",
+  "file": "/Users/ernest/Desktop/comp8610/HW2_new/Code/Texture.cpp",
+  "output": "CMakeFiles/task3.dir/Texture.cpp.o"
+}
+]
